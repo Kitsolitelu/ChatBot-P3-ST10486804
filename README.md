@@ -2,9 +2,9 @@
 # CyberBot — Cybersecurity Awareness Chatbot (Part 3 / POE)
 
 ## Student Details
-- **Name:** [Your Name]
-- **Student Number:** [Your Student Number]
-- **Date:** 2026
+- Name: Kitso LITELU
+- Student Number: ST10486804
+- Date:2026/06/26
 
 ---
 
@@ -55,8 +55,8 @@ a task assistant, a quiz mini-game, NLP simulation and an activity log.
 | Feature | How to open |
 |---------|-------------|
 | Topic pages | Click any chip: Password, Phishing, Browsing, Privacy, Scams, Malware |
-| Task Assistant | Click 📋 My Tasks chip or type "add task" / "my tasks" |
-| Quiz | Click 🎮 Quiz chip or type "quiz" / "test me" / "play game" |
+| Task Assistant | Click  My Tasks chip or type "add task" / "my tasks" |
+| Quiz | Click  Quiz chip or type "quiz" / "test me" / "play game" |
 | Activity Log | Type "show activity log" or "what have you done for me?" |
 | NLP reminder | Type "Remind me to update my password tomorrow" |
 | NLP task | Type "Add a task to enable two-factor authentication" |
